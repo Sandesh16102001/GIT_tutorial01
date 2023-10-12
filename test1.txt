@@ -1,0 +1,2 @@
+Hello,
+this is the test text file . Im learning about git.
